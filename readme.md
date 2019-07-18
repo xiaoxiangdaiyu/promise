@@ -319,4 +319,4 @@ Promise.reject与其类似，就不再实现了。
 [https://promisesaplus.com/](https://promisesaplus.com/)  
 [http://liubin.org/promises-book/#chapter1-what-is-promise](http://liubin.org/promises-book/#chapter1-what-is-promise)  
 
-本想把常见的promise面试题一起加上的，后面就写成了promise的实现，手动Promise都可以实现的话，相关面试题应该问题不大。这里附一个[JavaScript | Promises interiew ](https://www.geeksforgeeks.org/javascript-promises/) 大家可以看看。完整代码请转 
+本想把常见的promise面试题一起加上的，后面就写成了promise的实现，手动Promise都可以实现的话，相关面试题应该问题不大。这里附一个[JavaScript | Promises interiew ](https://www.geeksforgeeks.org/javascript-promises/) 大家可以看看。[完整代码请戳](https://github.com/xiaoxiangdaiyu/promise/blob/master/src/es6.js) 
